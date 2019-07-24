@@ -1,0 +1,11 @@
+schema_version: 20180708
+name: sendemail
+version: 0.0.22
+runtime: go
+entrypoint: ./func
+config:
+  OCI_EMAIL_DELIVERY_APPROVED_SENDER: EmailDeliveryのApproved Senderで設定したアドレス＝送信元アドレス
+  OCI_EMAIL_DELIVERY_SMTP_SERVER: リージョンのSMTPエンドポイント 例)smtp.us-phoenix-1.oraclecloud.com 
+  OCI_EMAIL_DELIVERY_USER_OCID: EmailDelivery用ユーザのSMTP Credential USERNAME
+  OCI_EMAIL_DELIVERY_USER_PASSWORD: EmailDelivery用ユーザのSMTP Credential PASSWORD
+  REGION: us-phoenix-1

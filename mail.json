@@ -1,5 +1,0 @@
-{
-    "To": "送信先メールアドレス",
-    "Subject": "Urgent!! Error detection of XXX job",
-    "Body": "* This email is sent automatically from job-mgr-server\n\nThe following error occurred when JOB was executed..\n\n[ xxxxxxxxxxxxxxxxxxxxxxx ]\n\n\n---\nInformation system department\nphone: xxx-xxx-xxx"
-}

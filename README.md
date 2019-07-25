@@ -2,10 +2,12 @@
 
 表題を実行するためのソースコードです。
 
-## セットアップ、実行手順
+## セットアップ、実行について
+
+以下、手順となります。
 [Oracle FunctionsでEmail Deliveryと連携しメール送信](https://qiita.com/y-araki-qiita/items/5a580bb739b37198300d)
 
-手順はスクリプトを実行してメールを送信する手順ですが、
+こちらはスクリプトを実行してメールを送信する手順ですが、
 func.goの中身を修正すれば
 fn invoke fn-email-app sendemail
 とコマンドを打つだけで実行されます。

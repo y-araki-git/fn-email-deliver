@@ -1,0 +1,11 @@
+* This email is sent automatically from %HOSTNAME%
+
+The following error occurred when JOB was executed.
+
+%JOBNAME%
+[ %ERRORCODE% ]
+
+
+---
+Information system department
+phone: xxx-xxx-xxx
